@@ -1,0 +1,67 @@
+nav {
+  background: transparent;
+  height: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: 700;
+}
+
+nav a {
+  color: #fff;
+  font-size: 3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+  nav a {
+    position: absolute;
+    top: 10px;
+    left: 25px;
+  }
+}
+
+nav .NavIcons {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  height: 80px;
+  color: #fff;
+  padding: 0 20px;
+}
+
+nav .NavIcons p {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+nav .NavIcons FaPizzaSlice {
+  font-size: 2rem;
+}
+
+nav .NavIcons:hover {
+  color: #e31837;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,52 @@
+nav {
+    background: transparent;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+
+    a {
+        color: #fff;
+        font-size: 3rem;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+
+        @media screen and (max-width: 400px) {
+            position: absolute;
+            top: 10px;
+            left: 25px;
+        }
+    }
+
+    .NavIcons {
+        // display: block;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        top: 0;
+        right: 0;
+        cursor: pointer;
+        height: 80px;
+        color: #fff;
+        padding: 0 20px;
+
+        p {
+            // transform: translate(-175%, 100%);
+            font-size: 1rem;
+            font-weight: bold;
+            padding: 0 10px;
+        }
+
+        FaPizzaSlice {
+            font-size: 2rem;
+            // transform: translate(-50%, -15%);
+        }
+
+        &:hover {
+            color: #e31837;
+            transition: 0.2s ease-in-out;
+        }
+    }
+}
