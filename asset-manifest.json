@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Pizza-Website/static/css/main.2a4903a1.chunk.css",
+    "main.js": "/Pizza-Website/static/js/main.50b0512c.chunk.js",
+    "main.js.map": "/Pizza-Website/static/js/main.50b0512c.chunk.js.map",
+    "runtime-main.js": "/Pizza-Website/static/js/runtime-main.e3812dc4.js",
+    "runtime-main.js.map": "/Pizza-Website/static/js/runtime-main.e3812dc4.js.map",
+    "static/js/2.0d8b7c53.chunk.js": "/Pizza-Website/static/js/2.0d8b7c53.chunk.js",
+    "static/js/2.0d8b7c53.chunk.js.map": "/Pizza-Website/static/js/2.0d8b7c53.chunk.js.map",
+    "index.html": "/Pizza-Website/index.html",
+    "static/css/main.2a4903a1.chunk.css.map": "/Pizza-Website/static/css/main.2a4903a1.chunk.css.map",
+    "static/js/2.0d8b7c53.chunk.js.LICENSE.txt": "/Pizza-Website/static/js/2.0d8b7c53.chunk.js.LICENSE.txt",
+    "static/media/MiddleSec.css": "/Pizza-Website/static/media/featured3.66d68644.jpg",
+    "static/media/Banner.css": "/Pizza-Website/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/Pizza-Website/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/Pizza-Website/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/Pizza-Website/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/Pizza-Website/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/Pizza-Website/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/Pizza-Website/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3812dc4.js",
+    "static/js/2.0d8b7c53.chunk.js",
+    "static/css/main.2a4903a1.chunk.css",
+    "static/js/main.50b0512c.chunk.js"
+  ]
+}
